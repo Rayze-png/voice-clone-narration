@@ -14,7 +14,7 @@ Built for Chinese science-explainer videos (科普动画). The pipeline itself w
 ## Install
 
 ```bash
-git clone https://github.com/<you>/voice-clone-narration ~/.claude/skills/voice-clone-narration
+git clone https://github.com/Rayze-png/voice-clone-narration ~/.claude/skills/voice-clone-narration
 bash ~/.claude/skills/voice-clone-narration/scripts/setup.sh
 ```
 
