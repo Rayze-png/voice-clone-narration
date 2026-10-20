@@ -1,0 +1,11 @@
+{
+  "name": "Speaker name",
+  "engine": "F5-TTS",
+  "model": "F5TTS_v1_Base",
+  "ref_audio": "ref.wav",
+  "ref_text_file": "ref_text.txt",
+  "source": "Where the reference audio came from (video URL + timestamps, or 'recorded dry')",
+  "consent": "Who agreed, to what scope, when (e.g. 'Owner agreed in writing 2026-10-19: AI cloning for my channel, non-commercial')",
+  "license_note": "F5-TTS pretrained weights are CC BY-NC — non-commercial only",
+  "tips": []
+}

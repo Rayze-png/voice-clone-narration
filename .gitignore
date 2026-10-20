@@ -1,0 +1,12 @@
+# Never commit voice data
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.ogg
+voices/
+ref_text.txt
+voice.json
+!assets/voice.template.json
+__pycache__/
+.DS_Store
