@@ -1,5 +1,7 @@
 # voice-clone-narration
 
+English | [简体中文](README.zh-CN.md)
+
 A [Claude Code](https://claude.com/claude-code) skill that turns a script into narration in a **consenting speaker's** cloned voice. Everything runs locally:
 
 1. **Extract** vocals from a video or podcast with yt-dlp and demucs, or start from a clean recording.
